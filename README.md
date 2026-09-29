@@ -26,3 +26,11 @@ const kaushal = {
   interests: ["Building projects", "Solving problems", "Open source"],
   motto: "Learn. Build. Improve. Repeat."
 };
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,js,ts,html,css,react,nodejs,git,github,vscode&theme=dark" />
+
+</div>
+
+
+<div align="center">
